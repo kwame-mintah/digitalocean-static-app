@@ -1,0 +1,8 @@
+spec:
+  name: digitalocean-static-app
+  static_sites:
+  - environment_slug: html
+    git:
+      branch: main
+      repo_clone_url: https://github.com/kwame-mintah/digitalocean-static-app.git
+    name: digitalocean-static-app
