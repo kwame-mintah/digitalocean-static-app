@@ -1,0 +1,8 @@
+name: digitalocean-static-app
+static_sites:
+- environment_slug: html
+  github:
+    branch: master
+    deploy_on_push: true
+    repo: kwame-mintah/digitalocean-static-app
+  name: digitalocean-static-app
