@@ -1,11 +1,11 @@
-# DigitalOcean Static App
+# DigitalOcean Static Site App
 
-This repository contains the files needed to serve a static app and deploy via DigitalOcean [App Platform](https://docs.digitalocean.com/products/app-platform/). However,
-the main objective is to use Terraform to deploy the App using my repository [terraform-digitalocean](https://github.com/kwame-mintah/terraform-digitalocean).
+This repository contains the files needed to serve a static app and deploy via [DigitalOcean App Platform](https://docs.digitalocean.com/products/app-platform/). The main objective of this project is to use Terraform to deploy the static site via my repository [terraform-digitalocean](https://github.com/kwame-mintah/terraform-digitalocean).
 
 ## Development
 
 ### Dependencies
+
 - DigitalOcean account
 - pre-commit
 
